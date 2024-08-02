@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [Kochou no Sei (胡蝶の精)](https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656)
 
+- 🌱 I’m currently learning [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
+
 - 💬 Ask me about **Lua and Don't Starve Together**
 
 - 📫 How to reach me **dinhkarat@gmail.com**
@@ -33,6 +35,18 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a> 
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sqlite" width="40" height="40"/> 
+    </a> 
+    <a href="https://brashmonkey.com/spriter/" target="_blank" rel="noreferrer"> 
+        <img src="https://brashmonkey.com/wp-content/uploads/2020/07/Spriter2_256px.png" alt="spriter" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mapeditor.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.mapeditor.org/img/logo.svg" alt="tiled" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.fmod.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.fmod.com/assets/logos/fmod-logo.png" alt="fmod designer" width="40" height="40"/> 
+    </a> 
 </p>
 
 
@@ -41,4 +55,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinhkarate&show_icons=true&locale=en" alt="dinhkarate" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinhkarate&" alt="dinhkarate" /></p>
-
