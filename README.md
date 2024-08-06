@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dinhkarat@gmail.com**
 
-- ⚡ Fun fact **Some people know me by the name Edgy Lord**
+- ⚡ Fun fact **Some people know me by the name PSBL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
