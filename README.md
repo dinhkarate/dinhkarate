@@ -55,3 +55,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinhkarate&show_icons=true&locale=en" alt="dinhkarate" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinhkarate&" alt="dinhkarate" /></p>
+
+
+
+## 📈 My Activities
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinhkarate/dinhkarate/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dinhkarate/dinhkarate/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dinhkarate/dinhkarate/output/github-contribution-grid-snake.svg">
+</picture>
