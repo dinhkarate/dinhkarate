@@ -15,8 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:dinhkarat@gmail.com)&emsp;
-    [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/dinhkarate/)
+<a href="https://fb.com/dinhkarate" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="dinhkarate" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -56,7 +55,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinhkarate&show_icons=true&locale=en" alt="dinhkarate" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinhkarate&" alt="dinhkarate" /></p>
-
 
 
 ## 📈 My Activities
