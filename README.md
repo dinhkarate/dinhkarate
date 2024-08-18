@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Kochou no Sei (胡蝶の精)](https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656)
 
-- 🌱 I’m currently learning [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
+- 🌱 I’m currently learning [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
 - 💬 Ask me about **Lua and Don't Starve Together**
 
