@@ -39,16 +39,15 @@
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
     </a> 
     <a href="https://brashmonkey.com/spriter/" target="_blank" rel="noreferrer"> 
-        <img src="https://media.discordapp.net/attachments/909484376306356235/1268874183350161462/295022510_487722246687002_3988492100464803181_n.png?ex=66ae02ab&is=66acb12b&hm=7ca8f8df6fec6c467abcc9bcef6e00d9c6c7933606e097a8ee12f57166f57cd4&=&format=webp&quality=lossless" alt="spriter" width="40" height="40"/> 
+        <img src="https://github.com/user-attachments/assets/67d8f939-162a-4626-8a02-6cc2fb97b4e3" alt="spriter" width="40" height="40"/> 
     </a> 
     <a href="https://www.mapeditor.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://media.discordapp.net/attachments/909484376306356235/1268874377949351997/tiled-logo.png?ex=66ae02da&is=66acb15a&hm=ad825a50c1d88ebf50c61472e4157b5de4ef74c269177431526d6410fc159fc0&=&format=webp&quality=lossless" alt="tiled" width="40" height="40"/> 
+        <img src="https://github.com/user-attachments/assets/288d8585-561c-43d8-9f11-75696de5b4d5" alt="tiled" width="40" height="40"/> 
     </a> 
     <a href="https://www.fmod.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://media.discordapp.net/attachments/909484376306356235/1268874554684477502/images.png?ex=66ae0304&is=66acb184&hm=7305af2e40e744f3116f2a8013a3cf7c618eaefb6105c9e6bc34a07862008210&=&format=webp&quality=lossless" alt="fmod designer" width="40" height="40"/> 
+        <img src="https://github.com/user-attachments/assets/e2acbfe6-f514-465c-9921-cc0b3d387a55" alt="fmod designer" width="40" height="40"/> 
     </a> 
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhkarate&show_icons=true&locale=en&layout=compact" alt="dinhkarate" /></p>
 
