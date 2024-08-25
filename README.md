@@ -37,7 +37,6 @@
     </a> 
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-
     </a> 
     <a href="https://brashmonkey.com/spriter/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/user-attachments/assets/d09e5ebb-70f1-43c8-bcdc-16bcf901bea9" alt="spriter" width="40" height="40"/> 
