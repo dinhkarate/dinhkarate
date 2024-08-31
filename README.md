@@ -51,10 +51,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhkarate&show_icons=true&locale=en&layout=compact" alt="dinhkarate" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinhkarate&show_icons=true&locale=en" alt="dinhkarate" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinhkarate&" alt="dinhkarate" /></p>
-
 
 
 
