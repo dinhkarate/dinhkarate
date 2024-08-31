@@ -49,7 +49,7 @@
     </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhkarate&show_icons=true&locale=en&layout=compact" alt="dinhkarate" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhkarate&show_icons=true&locale=en&layout=compact" alt="dinhkarate" /></p>    
 
 
 
