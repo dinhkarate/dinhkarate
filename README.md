@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Dinh</h1>
 <h3 align="center">A passionate in solving life problem using digital solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhkarate&label=Profile%20views&color=0e75b6&style=flat" alt="dinhkarate" /> </p>
-
 - I’m currently working on [Kochou no Sei (胡蝶の精)](https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656)
 
 - I’m currently learning [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science)
