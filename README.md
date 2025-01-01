@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dinh</h1>
 <h3 align="center">A passionate in solving life problem using digital solutions</h3>
 
-- I’m currently working on [Kochou no Sei (胡蝶の精)](https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656)
+- I’m no longer working on [Kochou no Sei (胡蝶の精)](https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656) but it still have some memory...
 
 - I’m currently learning Drupal
 
