@@ -3,14 +3,6 @@
 
 - I’m no longer working on [Kochou no Sei (胡蝶の精)](https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656) but it still have some memory...
 
-- I’m currently learning Drupal
-
-- Ask me about **Lua and Don't Starve Together**
-
-- How to reach me **dinhkarat@gmail.com**
-
-- Fun fact **Some people know me by the name PSBL**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> 
