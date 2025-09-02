@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dinh</h1>
-<h3 align="center">What I am going to do?</h3>
+<h3 align="center">My homelab... in process...</h3>
 
 - I’m no longer working on [Kochou no Sei (胡蝶の精)](https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656) but it still have some memory...
 
