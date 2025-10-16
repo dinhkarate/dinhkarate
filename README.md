@@ -1,44 +1,70 @@
-<h1 align="center">Hi, I'm Dinh</h1>
-<h3 align="center">My homelab: [Almost done](https://homelab.kikigaki.io.vn/)</h3>
+<h1 align="center">Hi, I'm Dinh 🧑‍💻</h1>
+<h3 align="center">Building my own infrastructure — one node at a time</h3>
 
-- I’m no longer working on [Kochou no Sei (胡蝶の精)](https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656) but it still have some memory...
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Adobe_Photoshop_CS6_icon.png" alt="photoshop" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-    </a> 
-    <a href="https://brashmonkey.com/spriter/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/user-attachments/assets/d09e5ebb-70f1-43c8-bcdc-16bcf901bea9" alt="spriter" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mapeditor.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/user-attachments/assets/288d8585-561c-43d8-9f11-75696de5b4d5" alt="tiled" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.fmod.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/user-attachments/assets/e2acbfe6-f514-465c-9921-cc0b3d387a55" alt="fmod designer" width="40" height="40"/> 
-    </a> 
+<p align="center">
+  <a href="https://homelab.kikigaki.io.vn/">🌐 My Homelab (Almost done)</a> · 
+  <a href="https://blog.kikigaki.io.vn/">✍️ My Blog</a>
 </p>
 
+---
+
+### 🧭 About Me
+
+I’m a **self-hosting enthusiast** and **infrastructure builder**.  
+For the past two years, I’ve been designing and maintaining my own **distributed Proxmox cluster** — a hybrid setup that connects **multiple datacenters (HCMC ↔ Bạc Liêu)** through **Tailscale, Cloudflare Tunnel, and WireGuard**.  
+
+This homelab has grown into a full production-like environment:
+- 🖥️ **Proxmox VE clusters** for virtualization (KVM + LXC)
+- 🗄️ **Proxmox Backup Server** with S3/R2 remote storage
+- 🌩️ **Caddy reverse proxy** with dynamic DNS and HTTPS automation  
+- 📊 **Grafana + Prometheus monitoring stack** with self-hosted exporters  
+- ⚙️ **Automation pipelines** using Bash, Python, and GitHub Actions  
+- 🧠 **Documented infrastructure** with [GetHomepage](https://gethomepage.dev/) and Trilium
+
+It’s more than a homelab — it’s my personal cloud, learning environment, and living proof of curiosity turned into capability.
+
+---
+
+### 🧩 Projects & Memories
+
+- 💠 [Kochou no Sei (胡蝶の精)](https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656) — A creative mod project that started everything.
+- 🧱 [Homelab Project](https://homelab.kikigaki.io.vn/) — My ongoing journey toward a fully self-hosted ecosystem.
+- 📘 [Blog](https://blog.kikigaki.io.vn/) — Where I write about experiments, failures, and small victories.
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left"> 
+    <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40"/> 
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 
+    </a>
+    <a href="https://www.caddyserver.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/user-attachments/assets/57f8e4ac-fb74-466d-bab7-064732fc7a57" width="40" height="40" alt="Caddy"/> 
+    </a>
+    <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" height="40"/>
+    </a>
+    <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+    </a>
+    <a href="https://pve.proxmox.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/ba36d3c3-d622-43e4-b5dc-2d6d9c501417" width="40" height="40" alt="Proxmox"/>
+    </a>
+</p>
+
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhkarate&show_icons=true&locale=en&layout=compact" alt="dinhkarate" /></p>    
-
-
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinhkarate/dinhkarate/output/github-contribution-grid-snake-dark.svg">
