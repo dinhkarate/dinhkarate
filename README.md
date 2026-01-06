@@ -1,5 +1,5 @@
 <h1 align="center">dinhkarate</h1>
-<h3 align="center">My homelab: [Almost done](https://homelab.kikigaki.io.vn/)</h3>
+<h3 align="center">My homelab: (https://homelab.thatnghiep.dev/)</h3>
 
 - I’m no longer working on [Kochou no Sei (胡蝶の精)](https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656) but it still have some memory...
 
