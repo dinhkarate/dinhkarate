@@ -1,5 +1,5 @@
 <h1 align="center">dinhkarate</h1>
-<h3 align="center">: A contributor to some opensource looking for my own opensource</h3>
+<h3 align="center">A contributor to some opensource looking for my own opensource</h3>
 
 - My Homelab is coming to the end but its knowledge still remain...
 - I’m no longer working on [Kochou no Sei (胡蝶の精)](https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656) but it still have some memory...
