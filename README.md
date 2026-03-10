@@ -1,8 +1,8 @@
 <h1 align="center">dinhkarate</h1>
 <h3 align="center">A contributor to some opensource looking for my own opensource</h3>
-<h3 align="center">[My Blog](https://homelab.kikigaki.io.vn/)</h3>
-<h3 align="center">[My Homelab]</h3>
-I'm no longer working on [Kochou no Sei (胡蝶の精)](https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656) but it still have some memory...
+<h3 align="center">My Blog: <a href="https://thatnghiep.dev">thatnghiep.dev</a></h3>
+<h3 align="center">My Homelab: <a href="https://homelab.kikigaki.io.vn">homelab.kikigaki.io.vn</a></h3>
+<h3 align="center">Kochou no Sei (胡蝶の精): <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656">Steam Workshop</a></h3>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dinhkarate.dinhkarate&" alt="visitor badge" />
