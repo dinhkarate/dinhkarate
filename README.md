@@ -1,9 +1,8 @@
 <h1 align="center">dinhkarate</h1>
 <h3 align="center">A contributor to some opensource looking for my own opensource</h3>
-
-- [My Blog](https://thatnghiep.dev)
-- [My Homelab](https://homelab.kikigaki.io.vn/)
-- I'm no longer working on [Kochou no Sei (胡蝶の精)](https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656) but it still have some memory...
+<h3 align="center">[My Blog](https://thatnghiep.dev)</h3>
+<h3 align="center">[My Homelab](https://homelab.kikigaki.io.vn/)</h3>
+I'm no longer working on [Kochou no Sei (胡蝶の精)](https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656) but it still have some memory...
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dinhkarate.dinhkarate&" alt="visitor badge" />
@@ -83,9 +82,6 @@
     <img src="https://github.com/user-attachments/assets/e2acbfe6-f514-465c-9921-cc0b3d387a55" alt="FMOD" width="40" height="40"/>
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhkarate&show_icons=true&locale=en&layout=compact" alt="dinhkarate" /></p>
-
 
 
 
