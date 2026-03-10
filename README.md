@@ -1,8 +1,9 @@
 <h1 align="center">dinhkarate</h1>
 <h3 align="center">A contributor to some opensource looking for my own opensource</h3>
 
+- [My Blog](https://thatnghiep.dev)
 - [My Homelab](https://homelab.kikigaki.io.vn/)
-- I’m no longer working on [Kochou no Sei (胡蝶の精)](https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656) but it still have some memory...
+- I'm no longer working on [Kochou no Sei (胡蝶の精)](https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656) but it still have some memory...
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dinhkarate.dinhkarate&" alt="visitor badge" />
@@ -14,48 +15,81 @@
 
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Adobe_Photoshop_CS6_icon.png" alt="photoshop" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-    </a> 
-    <a href="https://brashmonkey.com/spriter/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/user-attachments/assets/d09e5ebb-70f1-43c8-bcdc-16bcf901bea9" alt="spriter" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mapeditor.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/user-attachments/assets/288d8585-561c-43d8-9f11-75696de5b4d5" alt="tiled" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.fmod.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/user-attachments/assets/e2acbfe6-f514-465c-9921-cc0b3d387a55" alt="fmod designer" width="40" height="40"/> 
-    </a> 
-
-<a href="https://pve.proxmox.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png" width="40" alt="Proxmox"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/></a>
-  <a href="https://grafana.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" alt="Grafana"/></a>
-  <a href="https://prometheus.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" alt="Prometheus"/></a>
-  <a href="https://www.wireguard.com/"><img src="https://www.vectorlogo.zone/logos/wireguard/wireguard-icon.svg" width="40" alt="WireGuard"/></a>
+<h3 align="left">Languages:</h3>
+<p align="left">
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell/Bash" width="40" height="40"/>
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhkarate&show_icons=true&locale=en&layout=compact" alt="dinhkarate" /></p>    
+<h3 align="left">Tools & Infrastructure:</h3>
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://pve.proxmox.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png" alt="Proxmox" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
+  </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
+  </a>
+  <a href="https://www.wireguard.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/wireguard/wireguard-icon.svg" alt="WireGuard" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Adobe_Photoshop_CS6_icon.png" alt="Photoshop" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Game Dev:</h3>
+<p align="left">
+  <a href="https://brashmonkey.com/spriter/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/d09e5ebb-70f1-43c8-bcdc-16bcf901bea9" alt="Spriter" width="40" height="40"/>
+  </a>
+  <a href="https://www.mapeditor.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/288d8585-561c-43d8-9f11-75696de5b4d5" alt="Tiled Map Editor" width="40" height="40"/>
+  </a>
+  <a href="https://www.fmod.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/e2acbfe6-f514-465c-9921-cc0b3d387a55" alt="FMOD" width="40" height="40"/>
+  </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhkarate&show_icons=true&locale=en&layout=compact" alt="dinhkarate" /></p>
 
 
 
 
+<br clear="left"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinhkarate/dinhkarate/output/github-contribution-grid-snake-dark.svg">
