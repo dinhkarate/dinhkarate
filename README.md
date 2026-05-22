@@ -1,6 +1,7 @@
 <h1 align="center">dinhkarate</h1>
 <h3 align="center">A contributor to some opensource looking for my own opensource</h3>
 <h3 align="center">My Blog: <a href="https://thatnghiep.dev">thatnghiep.dev</a></h3>
+<h3 align="center">My Japanese Dictaction: <a href="https://kikigaki.vn">kikigaki.vn</a></h3>
 <h3 align="center">My Homelab: <a href="https://homelab.kikigaki.io.vn">homelab.kikigaki.io.vn</a></h3>
 <h3 align="center">Kochou no Sei (胡蝶の精): <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2733891656">Steam Workshop</a></h3>
 
