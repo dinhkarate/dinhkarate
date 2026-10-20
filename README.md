@@ -7,7 +7,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dinhkarate.dinhkarate&" alt="visitor badge" />
-  <img src="https://img.shields.io/badge/ 🎓 university-uit-blue" alt="university: uit" />
   <img src="https://img.shields.io/badge/😭 hobby-japanese culture-green" alt="hobby: japanese culture" />
 
   <img src="https://img.shields.io/github/followers/dinhkarate?label=Follow&style=social" alt="GitHub followers" />
